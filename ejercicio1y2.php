@@ -39,12 +39,6 @@ do {
     echo "$num x $x = ".$num*$x."<br>";
     $x++;
 } while ( $x != 11 );
-echo "<hr>";
-
-//3)
-echo "Ejercicio 3: <br><br>";
-
-
 ?>
 </body>
 </html>
